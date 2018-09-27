@@ -1,5 +1,5 @@
 {
-  "name": "crip-laravel/filesys",
+  "name": "instamotion/filesys",
   "description": "Laravel - Filemanager extension",
   "require": {
     "crip/core": "^1.0",
